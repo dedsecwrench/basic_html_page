@@ -1,4 +1,4 @@
-# Project 1 - BASIC HTML PAGE
+# BASIC HTML PAGE
 
 # index.html
 
